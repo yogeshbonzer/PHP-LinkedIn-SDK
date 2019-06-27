@@ -1,5 +1,5 @@
 {
-    "name": "linkedinapi/linkedin",
+    "name": "yogeshbonzer/linkedinapi",
     "type": "library",
     "description": "PHP LinkedIn SDK for V2",
     "keywords": ["linkedin","rest","api","api client"],
